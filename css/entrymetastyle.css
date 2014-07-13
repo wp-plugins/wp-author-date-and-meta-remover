@@ -1,0 +1,10 @@
+
+/* Remove meta from post */
+.entry-meta {
+display:none !important;
+}
+
+/* Remove meta from home page */
+.home .entry-meta { 
+display: none; 
+}
