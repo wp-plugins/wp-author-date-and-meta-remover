@@ -8,17 +8,17 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Don't need the post date and author metadata on your pages? Install WP Author, Date and Meta Remover and its gone. It’s that easy!
+Don't need the post date and author metadata on your pages? Install WP Author, Date and Meta Remover and its gone. It's that easy!
 
 
 == Description ==
 Please visit the homepage for the <a href="http://johnniejodelljr.com/wp-author-date-and-meta-remover/">WP Author, Date and Meta Remover</a> plugin.
 
-WordPress has become the staple for many online business owners creating their online presence. The CMS is so easy and convenient and the themes are becoming more spectacular with every new generation. That is to say, WordPress is just not a blog anymore. Many posts in business are not time sensitive. Rather they contain information that is pertinent for many months or even a novelty that can be relevant for many years such as in evergreen businesses. A time stamp and author information stands out as unnatural and irrelevant is such posts. Now it is as simple as installing a plugin and the author metadata is gone. It’s as easy as that. 
+WordPress has become the staple for many online business owners creating their online presence. The CMS is so easy and convenient and the themes are becoming more spectacular with every new generation. That is to say, WordPress is just not a blog anymore. Many posts in business are not time sensitive. Rather they contain information that is pertinent for many months or even a novelty that can be relevant for many years such as in evergreen businesses. A time stamp and author information stands out as unnatural and irrelevant is such posts. Now it is as simple as installing a plugin and the author metadata is gone. It's as easy as that. 
 
 WP Author, Date and Meta Remover is based on the CSS model for removing author metadata from standard WordPress themes, i.e. 2011-2014. The plugin is simple; it uses a CSS file linked into the header of your pages with very simple code to remove the author metadata. There is no need to write a child theme, the plugin will do the work for you. The plugin is so simple; there is no load on runtime.
 
-Please understand that the plugin is based on the standard WordPress themes 2011-2014 CSS code for removing the author metadata. It will remove the metadata for a majority of themes on the market. However, it may not work on themes produced by some theme foundries. If WP Author, Date and Meta Remover do not work with your website theme, consult the theme author for more information on removing the metadata. You’re welcome to send me the information to help build a better plugin. 
+Please understand that the plugin is based on the standard WordPress themes 2011-2014 CSS code for removing the author metadata. It will remove the metadata for a majority of themes on the market. However, it may not work on themes produced by some theme foundries. If WP Author, Date and Meta Remover do not work with your website theme, consult the theme author for more information on removing the metadata. You're welcome to send me the information to help build a better plugin. 
 
 * NOTE: All feedback and suggestions are welcome. I am constantly looking for ways to improve and upgrade WP Author, Date and Meta Remover. Please contact me with your ideas for a better plugin. 
 
