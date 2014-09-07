@@ -3,7 +3,7 @@ Contributors: Johnnie2u
 Donate link: http://ai9.co/1c
 Tags: author, date, metadata, post, home page, remover, entry-meta, css 
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
