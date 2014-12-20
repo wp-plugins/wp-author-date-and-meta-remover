@@ -3,7 +3,7 @@
  * Plugin Name: WP Author, Date and Meta Remover
  * Plugin URI: http://johnniejodelljr.com/wp-author-and-date-remover/
  * Description: Remove the "Posted on Month, Day Year by Author" on the home page and post. Just plug and play; it's that easy!
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Johnnie J. O'Dell Jr.
  * Author URI: http://johnniejodelljr.com/
  * License: GPL2
