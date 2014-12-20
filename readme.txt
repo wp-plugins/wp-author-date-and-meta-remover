@@ -3,7 +3,7 @@ Contributors: Johnnie2u
 Donate link: http://ai9.co/1c
 Tags: author, date, metadata, post, home page, remover, entry-meta, css 
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,6 @@ Don't need the post date and author metadata on your pages? Install WP Author, D
 
 
 == Description ==
-Please visit the homepage for the <a href="http://johnniejodelljr.com/wp-author-date-and-meta-remover/">WP Author, Date and Meta Remover</a> plugin.
 
 WordPress has become the staple for many online business owners creating their online presence. The CMS is so easy and convenient and the themes are becoming more spectacular with every new generation. That is to say, WordPress is just not a blog anymore. Many posts in business are not time sensitive. Rather they contain information that is pertinent for many months or even a novelty that can be relevant for many years such as in evergreen businesses. A time stamp and author information stands out as unnatural and irrelevant is such posts. Now it is as simple as installing a plugin and the author metadata is gone. It's as easy as that. 
 
