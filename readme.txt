@@ -28,7 +28,7 @@ Please understand that the plugin is based on the standard WordPress themes 2011
 
 = WP ADMR Pro+ Video =
 <p></p>
-<p>https://youtu.be/Vl5G1yNDaCc</p>
+<p>http://www.youtube.com/watch?v=Vl5G1yNDaCc</p>
 
 ### Main Fetures:
 > * Personalize your post and page meta data on the fly. Or just eliminate it!
