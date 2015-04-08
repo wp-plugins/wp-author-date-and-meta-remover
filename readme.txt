@@ -39,7 +39,7 @@ Please understand that the plugin is based on the standard WordPress themes 2011
 > * WP ADMR Pro+ is built on a jQuery and Ajax foundation for seamless integration into your WordPress Theme.
 > * Works of both free and premium themes. WP ADMR Pro+ overrides premium themes special epanel. Even if it has meta data settings!
 > * WP ADMR Pro+ will display meta data information for the author, date, category, comments, and tags even if the theme author did not originally include it!
-> * Customize or eliminate meta data with multiple class <div> tags. We built WP ADMR Pro+ on jQuery & Ajax on purpose. Use dot notation to string classes together.
+> * Customize or eliminate meta data with multiple class div tags. We built WP ADMR Pro+ on jQuery & Ajax on purpose. Use dot notation to string classes together.
 
 * NOTE: All feedback and suggestions are welcome. I am constantly looking for ways to improve and upgrade WP Author, Date and Meta Remover. Please contact me with your ideas for a better plugin. 
 
